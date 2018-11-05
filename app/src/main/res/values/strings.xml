@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeekendHomeWork</string>
+    <string name="appbar_scrolling_view_behavior" />
+    <string name="android_studio_android_com">android.studio@android.com</string>
+</resources>
